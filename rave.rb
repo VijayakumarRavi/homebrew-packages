@@ -1,7 +1,6 @@
 cask "rave" do
   version "1.15.19"
-  # sha256 "f5fa7c9459a7284c7988fbaaa7f0a2ce4a2b8a282e0f0f243156d600928a70a7"
-  sha256 :no_check
+  sha256 "f5fa7c9459a7284c7988fbaaa7f0a2ce4a2b8a282e0f0f243156d600928a70a7"
 
   url "https://cdn.cooldaddypop.com/rave-desktop/mac/x64/Rave-#{version}.dmg",
       verified: "cdn.cooldaddypop.com/rave-desktop/mac/x64/"
